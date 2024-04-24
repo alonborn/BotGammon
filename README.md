@@ -10,3 +10,7 @@ The solution includes the following:
   - Arduino Manager - that gets instructions from the main PC and send them over to GRBL or UI
   - I2C to Serial - a converter from I2C protocol to Serial (there're not enough Serial ports on the arduino)
   - RGB Led Matrix - for the UI
+ 
+
+https://www.youtube.com/watch?v=F0rRMJZtO1g
+
