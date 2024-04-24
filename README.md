@@ -1,5 +1,5 @@
 # BotGammon
-A solution for a robot that plays Backgammon.
+A solution for a robot that plays Backgammon against real player.
 
 The solution includes the following:
 - Board detection (to detect checkers on board)
